@@ -1,0 +1,6 @@
+/target
+.env
+accounts.json
+config.json
+.vscode
+.DS_Store
